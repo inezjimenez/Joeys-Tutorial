@@ -1,0 +1,19 @@
+
+header {
+    color: black;
+}
+h1 {
+    color: black;
+}
+p {
+    color: blue;
+}
+.second-paragraph {
+    color: black;
+    text-shadow: 9px 9px;
+    position: relative;
+    
+}
+body {
+    background-color: brown;
+}
